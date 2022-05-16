@@ -1,6 +1,6 @@
 <div id="top"></div>
 <p align="center">
-  <img src="https://img.shields.io/github/contributors/vay130/TikTokMassBotting.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/contributors/vay1300/TikTokMassBotting.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/github/forks/vay1300/TikTokMassBotting.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/vay1300/TikTokMassBotting.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/github/issues/vay1300/TikTokMassBotting.svg?style=for-the-badge"/>
