@@ -8,6 +8,9 @@
 </p>
 
 <h1 align="center">☄️ TikTok Mass Botting ☄️ (Shares)</h1>
+ <a href="https://github.com/ol1verdev/TikTokMassBotting">
+   <img src="https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-common-sg/mtact/static/images/logo_144c91a.png" alt="Logo" width="120" height="120">
+ </a>
 <p align='center'>
   <b>Star ⭐ if you want more</b><br>
    <br />
