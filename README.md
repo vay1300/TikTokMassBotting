@@ -1,23 +1,23 @@
 <div id="top"></div>
 <p align="center">
-  <img src="https://img.shields.io/github/contributors/ol1verdev/TikTokMassBotting.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/ol1verdev/TikTokMassBotting.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/ol1verdev/TikTokMassBotting.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/issues/ol1verdev/TikTokMassBotting.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/ol1verdev/TikTokMassBotting.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/contributors/vay1300vay1300vay1300vay1300vay1300/TikTokMassBotting.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/forks/vay1300vay1300vay1300vay1300/TikTokMassBotting.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/vay1300vay1300vay1300/TikTokMassBotting.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/issues/vay1300vay1300/TikTokMassBotting.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/license/vay1300/TikTokMassBotting.svg?style=for-the-badge"/>
 </p>
 
 <br/>
 <div align="center">
- <a href="https://github.com/ol1verdev/TikTokMassBotting">
+ <a href="https://github.com/vay1300/TikTokMassBotting">
    <img src="https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-common-sg/mtact/static/images/logo_144c91a.png" alt="Logo" width="120" height="120">
  </a>
   
   <h2 align="center">☄️ TikTok Mass Botting ☄️ (Shares)</h3>
     <b>Star ⭐ if you want more</b><br>
-   <a href="https://github.com/ol1verdev/TikTokMassBotting/issues">Report Bug</a>
+   <a href="https://github.com/vay1300/TikTokMassBotting/issues">Report Bug</a>
    ·
-   <a href="https://github.com/ol1verdev/TikTokMassBotting/issues">Request Feature</a>
+   <a href="https://github.com/vay1300/TikTokMassBotting/issues">Request Feature</a>
 </div>
 
 ## Features
