@@ -22,7 +22,7 @@ Discord: https://discord.gg/e7DpUWSU7q
 ```
 ## Installation
 ```
-- pip install requirements.txt
+- pip install requests pystyle==1.5
 ```
 
 ## Usage
