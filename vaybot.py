@@ -35,19 +35,7 @@ def Banner():
         discord.gg/e7DpUWSU7q
 """
 
-    Banner2 = r"""
-  ,           ,
- /             \
-((__-^^-,-^^-__))
- `-_---' `---_-'
-  <__|o` 'o|__>
-     \  `  /
-      ): :(
-      :o_o:
-       "-" 
-       """
-
-    print(Center.XCenter(Colorate.Vertical(Colors.yellow_to_red, Add.Add(Banner2, Banner1, center=True), 2)))
+    print(Center.XCenter(Colorate.Vertical(Colors.yellow_to_red, Add.Add(Banner1, center=True), 2)))
 
 def sendView():
     proxy         = {f'{proxyType}': f'{proxyType}://{choice(proxyList)}'}
