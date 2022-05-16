@@ -1,8 +1,21 @@
+<div id="top"></div>
+<p align="center">
+  <img src="https://img.shields.io/github/contributors/ol1verdev/TikTokMassBotting.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/forks/ol1verdev/TikTokMassBotting.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/ol1verdev/TikTokMassBotting.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/issues/ol1verdev/TikTokMassBotting.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/license/ol1verdev/TikTokMassBotting.svg?style=for-the-badge"/>
+</p>
+
 <h1 align="center">☄️ TikTok Mass Botting ☄️ (Shares)</h1>
 <p align='center'>
   <b>Star ⭐ if you want more</b><br>
+   <br />
+   <br />
+   <a href="https://github.com/ol1verdev/TikTokMassBotting/issues">Report Bug</a>
+   ·
+   <a href="https://github.com/ol1verdev/TikTokMassBotting/issues">Request Feature</a>
 </p>
-
 
 ## Features
 ```js
