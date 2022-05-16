@@ -14,15 +14,11 @@
  </a>
   
   <h2 align="center">☄️ TikTok Mass Botting ☄️ (Shares)</h3>
- 
-<p align='center'>
-  <b>Star ⭐ if you want more</b><br>
-   <br />
-   <br />
+    <b>Star ⭐ if you want more</b><br>
    <a href="https://github.com/ol1verdev/TikTokMassBotting/issues">Report Bug</a>
    ·
    <a href="https://github.com/ol1verdev/TikTokMassBotting/issues">Request Feature</a>
-</p>
+</div>
 
 ## Features
 ```js
