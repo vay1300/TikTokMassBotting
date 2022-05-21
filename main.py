@@ -12,7 +12,7 @@ from pystyle import Colorate, Colors, Write, Add, Center
 
 from Data.UserAgent import UserAgent
 from Data.Lists import DeviceTypes, Platforms, Channel, ApiDomain
-from utils import *
+from utils import * 
 
 class BlockCookies(cookiejar.CookiePolicy):
     return_ok = set_ok = domain_return_ok = path_return_ok = lambda self, *args, **kwargs: False
