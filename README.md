@@ -45,7 +45,7 @@ Discord: https://discord.gg/e7DpUWSU7q
 ```
 - Video tutorial on our discord server (discord.gg/e7DpUWSU7q)
 
-1. Run <Vaybot.py>
+1. Run <main.py>
 2. Paste ur video url
 3. Choose the amount (0 = Infinite)
 4. Enter thread (Choose 100-1000 | More threads = faster but makes your computer slower)
