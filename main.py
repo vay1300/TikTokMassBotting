@@ -44,7 +44,7 @@ def Banner():
      \  `  /
       ): :(
       :o_o:
-       "-" 
+       "=" 
        """
 
     print(Center.XCenter(Colorate.Vertical(Colors.yellow_to_red, Add.Add(Banner2, Banner1, center=True), 2)))
