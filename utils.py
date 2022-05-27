@@ -34,5 +34,5 @@ def readProxiesFile():
             restartTry = False
             return proxies
         except:
-            print("Failed to open Proxies.txt!")
+            print("Failed to open Proxies.txt")
             restartTry = True
