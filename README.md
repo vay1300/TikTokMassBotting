@@ -14,7 +14,7 @@
  </a>
   
   <h2 align="center">☄️ TikTok Mass Botting ☄️ (Shares)</h3>
-    <b>Star ⭐ if you want more (New API on 15 starred)</b><br>
+    <b>Star ⭐ if you want more (New API on 15 stars)</b><br>
    <a href="https://github.com/vay1300/TikTokMassBotting/issues">Report Bug</a>
    ·
    <a href="https://github.com/vay1300/TikTokMassBotting/issues">Request Feature</a>
